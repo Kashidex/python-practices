@@ -5,4 +5,5 @@ This repository features the codes I wrote to practice python, featuring challen
 - [x] Day 2: Odd Or Even
 - [x] Day 3: List Less Than Ten
 - [x] Day 4: Divisors
-- [ ] Day 5: List Overlap
+- [x] Day 5: List Overlap
+- [ ] Day 6: String Lists
