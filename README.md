@@ -6,4 +6,5 @@ This repository features the codes I wrote to practice python, featuring challen
 - [x] Day 3: List Less Than Ten
 - [x] Day 4: Divisors
 - [x] Day 5: List Overlap
-- [ ] Day 6: String Lists
+- [x] Day 6: String Lists
+- [ ] Day 7: List Comprehensions
