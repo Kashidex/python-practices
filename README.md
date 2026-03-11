@@ -7,4 +7,5 @@ This repository features the codes I wrote to practice python, featuring challen
 - [x] Day 4: Divisors
 - [x] Day 5: List Overlap
 - [x] Day 6: String Lists
-- [ ] Day 7: List Comprehensions
+- [x] Day 7: List Comprehensions
+- [ ] Day 8: Rock Paper Scissors
