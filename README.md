@@ -1,5 +1,5 @@
 # Python Practices
-This repository features the codes I wrote to practice python, featuring challenges from the website [Practice Python](https://www.practicepython.org/).
+This repository contains the scripts I wrote to practice python, featuring challenges from the website [Practice Python](https://www.practicepython.org/).
 
 - [x] Day 1: Character Input
 - [x] Day 2: Odd Or Even
