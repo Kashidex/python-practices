@@ -8,4 +8,5 @@ This repository features the codes I wrote to practice python, featuring challen
 - [x] Day 5: List Overlap
 - [x] Day 6: String Lists
 - [x] Day 7: List Comprehensions
-- [ ] Day 8: Rock Paper Scissors
+- [x] Day 8: Rock Paper Scissors
+- [ ] Day 9: Guessing Game One
