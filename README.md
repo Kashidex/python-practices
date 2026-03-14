@@ -9,4 +9,5 @@ This repository contains the scripts I wrote to practice python, featuring chall
 - [x] Day 6: String Lists
 - [x] Day 7: List Comprehensions
 - [x] Day 8: Rock Paper Scissors
-- [ ] Day 9: Guessing Game One
+- [x] Day 9: Guessing Game One
+- [ ] Day 10: List Overlap Comprehensions
