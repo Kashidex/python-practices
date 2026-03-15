@@ -11,4 +11,5 @@ This repository contains the scripts I wrote to practice python, featuring chall
 - [x] Day 8: Rock Paper Scissors
 - [x] Day 9: Guessing Game One
 - [x] Day 10: List Overlap Comprehensions (same with Day 7)
-- [ ] Day 11: Check Primality Functions
+- [x] Day 11: Check Primality Functions
+- [ ] Day 12: List Ends
