@@ -13,5 +13,5 @@ This repository contains the scripts I wrote to practice python, featuring chall
 - [x] Day 10: List Overlap Comprehensions (same with Day 7)
 - [x] Day 11: Check Primality Functions
 - [x] Day 12: List Ends
-- [ ] Day 13: Fibonacci
+- [x] Day 13: Fibonacci
 - [ ] Day 14: List Remove Duplicates
