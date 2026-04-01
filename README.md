@@ -14,4 +14,5 @@ This repository contains the scripts I wrote to practice python, featuring chall
 - [x] Day 11: Check Primality Functions
 - [x] Day 12: List Ends
 - [x] Day 13: Fibonacci
-- [ ] Day 14: List Remove Duplicates
+- [x] Day 14: List Remove Duplicates
+- [ ] Day 15: Reverse Word Order
