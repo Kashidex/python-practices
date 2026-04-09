@@ -16,4 +16,6 @@ This repository contains the scripts I wrote to practice python, featuring chall
 - [x] Exercise 13: Fibonacci
 - [x] Exercise 14: List Remove Duplicates
 - [x] Exercise 15: Reverse Word Order
-- [ ] Exercise 16: Password Generator
+- [x] Exercise 16: Password Generator
+  - [ ] Login feature to be made
+- [ ] Exercise 17: Decode A Web Page
